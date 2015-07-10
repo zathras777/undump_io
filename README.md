@@ -44,3 +44,9 @@ Total of 10 matches for filter 'Hello World'
 ```
 
 This processes the file, then saves any requests that contain 'Hello World' into hello.txt.
+
+## Future
+
+This was written to simplify some debugging and investigation, so may not get much more love. It was also
+written with only input IO being captured, so if output IO is also captured it may not work. That said,
+I'll happily look at suggestions and pull requests are welcome.
