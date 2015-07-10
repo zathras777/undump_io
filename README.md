@@ -15,7 +15,7 @@ requests. It allows for filtering and saving into files.
 
 ## How
 
-1. Enable mod_dump_io on your Apache web server. (You're on your own with this!)
+1. Enable mod_dumpio on your Apache web server. (You're on your own with this!)
 2. Capture some requests.
 3. Rebuild the requests
 
